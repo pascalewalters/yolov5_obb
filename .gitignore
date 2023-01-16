@@ -1,0 +1,4 @@
+venv/
+runs/
+relabel_door_data/
+yolov5_obb_models/
